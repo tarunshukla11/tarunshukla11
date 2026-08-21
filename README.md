@@ -1,16 +1,36 @@
+<div align="center">
+
 # Hi, I'm Tarun Shukla
 
-**Computer Science Engineering Student | Full-Stack Developer | AI/ML Enthusiast**
+### Computer Science Engineering Student • Full-Stack Developer • AI/ML Enthusiast
 
-I enjoy building real-world software projects, exploring AI/ML, and turning ideas into working applications.
+<p>
+  <a href="https://www.linkedin.com/in/tarun-kumar-shukla-76a65a370/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
 
 ## About Me
 
+I'm a **Computer Science Engineering student** who enjoys turning ideas into real, working software.
+
+I'm particularly interested in **full-stack development, AI/ML, problem solving, and building projects that are useful beyond the classroom**.
+
 * 🎓 Computer Science Engineering student
-* 💻 Building web and software applications
-* 🤖 Exploring AI/ML
-* 🚀 Learning by building real projects
-* 📚 Continuously improving my development skills
+* 💻 Building full-stack and interactive applications
+* 🤖 Exploring Artificial Intelligence & Machine Learning
+* 🚀 Learning through real-world projects
+* 🧠 Improving problem-solving and software engineering skills
+* 🔧 Interested in how software works from development to deployment
+
+---
 
 ## Tech Stack
 
@@ -20,29 +40,131 @@ I enjoy building real-world software projects, exploring AI/ML, and turning idea
   <img src="https://skillicons.dev/icons?i=js,python,java,mysql" />
 </p>
 
-### Web Development
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
 </p>
 
-### Tools & Technologies
+### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,supabase" />
 </p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+</p>
+
+---
 
 ## Currently Learning
 
-* AI/ML
-* Backend development
-* Deployment
-* System design
+```text
+AI / ML
+   ↓
+Backend Development
+   ↓
+Deployment & DevOps
+   ↓
+System Design
+```
+
+I'm continuously expanding my skills by building projects rather than only studying theory.
+
+---
 
 ## Featured Projects
 
-🚧 Currently preparing my best projects for publication.
+### 🎮 Tic-Tac-Toe Master
 
-## Connect With Me
+A feature-rich Tic-Tac-Toe project focused on gameplay, AI opponents, multiplayer functionality, responsive UI, and Android deployment.
 
-[LinkedIn](#) • [Portfolio](#)
+**Tech:** JavaScript • HTML • CSS • Capacitor
+
+---
+
+### 🚀 BeyondCode
+
+An AI-focused career and learning platform designed to bring together tools for students, including learning, skills, resumes, productivity, and career development.
+
+**Tech:** Next.js • React • Supabase • JavaScript/TypeScript
+
+---
+
+### 🤖 AI / ML Projects
+
+Exploring practical applications of machine learning and artificial intelligence through academic and personal projects.
+
+---
+
+## My Development Journey
+
+```text
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Improve
+  ↓
+Deploy
+  ↓
+Repeat
+```
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true" />
+
+</div>
+
+---
+
+## Goals
+
+* Build and deploy production-quality applications
+* Strengthen Data Structures & Algorithms
+* Become stronger in AI/ML
+* Learn scalable backend architecture
+* Contribute to open-source projects
+* Build a portfolio of meaningful software
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/tarun-kumar-shukla-76a65a370/">
+<img src="https://img.shields.io/badge/LinkedIn-Tarun%20Kumar%20Shukla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+### Thanks for visiting my profile!
+
+⭐ Explore my repositories and see what I'm building.
+
+</div>
