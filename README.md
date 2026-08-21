@@ -124,9 +124,9 @@ Repeat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=tarunshukla11&show_icons=true&hide_border=true&rank_icon=github" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunshukla11&layout=compact&hide_border=true" />
 
 </div>
 
@@ -136,7 +136,7 @@ Repeat
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunshukla11&hide_border=true" />
 
 </div>
 
