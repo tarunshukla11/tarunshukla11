@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Tarun Shukla
 
-<!--
-**tarunshukla11/tarunshukla11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering student passionate about software development, AI/ML, and building real-world applications.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science Engineering student
+- 💻 Building web and software projects
+- 🤖 Exploring AI/ML
+- 🚀 Interested in turning ideas into real-world products
+- 📚 Always learning and improving
+
+## Languages
+
+- JavaScript
+- Python
+- Java
+- SQL
+
+## Technologies
+
+- React
+- Next.js
+- Node.js
+- Git & GitHub
+- Docker
+- Supabase
+
+## Currently Learning
+
+- AI/ML
+- Backend development
+- Deployment
+- System design
+
+## Featured Projects
+
+Coming soon...
+
+## Connect With Me
+
+- LinkedIn
+- Portfolio
