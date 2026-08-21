@@ -1,43 +1,48 @@
 # Hi, I'm Tarun Shukla
 
-Computer Science Engineering student passionate about software development, AI/ML, and building real-world applications.
+**Computer Science Engineering Student | Full-Stack Developer | AI/ML Enthusiast**
+
+I enjoy building real-world software projects, exploring AI/ML, and turning ideas into working applications.
 
 ## About Me
 
-- 🎓 Computer Science Engineering student
-- 💻 Building web and software projects
-- 🤖 Exploring AI/ML
-- 🚀 Interested in turning ideas into real-world products
-- 📚 Always learning and improving
+* 🎓 Computer Science Engineering student
+* 💻 Building web and software applications
+* 🤖 Exploring AI/ML
+* 🚀 Learning by building real projects
+* 📚 Continuously improving my development skills
 
-## Languages
+## Tech Stack
 
-- JavaScript
-- Python
-- Java
-- SQL
+### Languages
 
-## Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,java,mysql" />
+</p>
 
-- React
-- Next.js
-- Node.js
-- Git & GitHub
-- Docker
-- Supabase
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,supabase" />
+</p>
 
 ## Currently Learning
 
-- AI/ML
-- Backend development
-- Deployment
-- System design
+* AI/ML
+* Backend development
+* Deployment
+* System design
 
 ## Featured Projects
 
-Coming soon...
+🚧 Currently preparing my best projects for publication.
 
 ## Connect With Me
 
-- LinkedIn
-- Portfolio
+[LinkedIn](#) • [Portfolio](#)
